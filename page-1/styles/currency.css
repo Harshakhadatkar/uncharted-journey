@@ -1,0 +1,706 @@
+
+html {
+	font-size:67.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1519px;
+}.macbook-pro-14-1-4Ui {
+
+  box-sizing: border-box;
+  width: 1544px;
+  height: 1800px;
+  overflow: hidden;
+  position: relative;
+  
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A {
+  width: 1519px;
+  height: 500px;
+  position: relative;
+  background-color: #ffffff;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .background-LUA {
+  margin-bottom: 263px;
+  width: 151.9rem;
+  height: 54rem;
+  position: inherit;
+  left: 0;
+  top: -184px;
+  background-size: 121.11% 132.007%;
+  background-position: -4.279rem -34.6632rem;
+  
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa {
+  position: absolute;
+  padding: 5px;
+  margin-top: 0px;
+  padding-left: 20px;
+  margin-bottom: 0px;
+  width: 100%;
+  z-index: 9;
+  height: 4.9rem;
+  display: flex;
+  align-items: center;
+  
+}
+
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa {
+  background-color: #00000077;
+  border-radius: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  height: 65px;
+  color: whitesmoke;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA {
+  margin-right: 31.2042rem;
+  /* height: 100%; */
+  display: flex;
+  /* align-items: flex-end; */
+  flex-shrink: 0;
+  align-content: center;
+ 
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k {
+  margin: 0rem 1.259rem 0.1rem 0rem;
+  width: 5.0367rem;
+  height: 4.8rem;
+  position: relative;
+  border: solid 0.1rem #689c8f;
+  box-sizing: border-box;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k .rectangle-13-LS6 {
+  width: 3.9874rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0.5247rem;
+  top: 0.5rem;
+  background-color: #f7ede2;
+  border-radius: 0.3rem;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k .ju-4N6 {
+  width: 1.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.0493rem;
+  top: 1rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.63rem;
+  color: #327b69;
+  font-family: Lucida Console, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv {
+  max-width: 9.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3930000067;
+  letter-spacing: 0.336rem;
+  color: #000000;
+  font-family: Mohave, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv .journey-uncharted-kEv-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.336rem;
+  color: #000000;
+  font-family: Mohave, 'Source Sans Pro';
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv .journey-uncharted-kEv-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3925;
+  letter-spacing: 0.336rem;
+  color: #eb6967;
+  font-family: Mohave, 'Source Sans Pro';
+}
+.navbar {
+  padding-top: 14px;
+  position: relative;
+  display: block;
+  /* overflow: hidden; */
+  /* background-color: #0c5460; */
+  font-family: Mohave, 'Source Sans Pro';
+  z-index: 10;
+  padding-right: 300px;
+}
+/* Links inside the navbar */
+.navbar a {
+  float: right;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: right;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 18px;
+  letter-spacing: 2px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  color: #F7D5A1;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: rgba(17, 17, 17, 0.67);
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 {
+  margin: 1.2rem 0rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .home-vKk {
+  
+  margin-right: 8.5163rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .home-vKk:hover {
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .destinations-Fcv {
+  margin-right: 11.8044rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .destinations-Fcv:hover {
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .activities-mrA {
+  margin-right: 10.5122rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .activities-mrA:hover{
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown {
+  float: left;
+  overflow: hidden;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown .activities-mrA{
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 a:hover, .dropdown:hover .activities-mrA {
+  background-color: rgb(197, 197, 197);
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown-content a:hover {
+  background-color: #ddd;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown:hover .dropdown:hover {
+  display: block;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .login-hjp {
+  margin-right: 8.6671rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .login-hjp:hover{
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .register-SBc {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .register-SBc:hover{
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc {
+  width: 56.5884rem;
+  height: 50.5rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 11.5rem;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .rectangle-2-XYe {
+  margin-top: 60px;
+  width: 37.1rem;
+  height: 39.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.686);
+  border-radius: 5.9rem;
+  border-color: #327b69;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE {
+  width: 43.6044rem;
+  height: 29.4457rem;
+  position: absolute;
+  left: 4.2922rem;
+  top: 4.5774rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-1jz2-9pv {
+  margin-bottom: 2.221rem;
+  width: 100%;
+  height: 6.029rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-1jz2-9pv .search-bar-ErN {
+  margin: 0rem 2.251rem 0.061rem 0rem;
+  box-sizing: border-box;
+  padding: 1.623rem 1.741rem 1.545rem 1.741rem;
+  width: 35.9058rem;
+  height: calc(100% - 0.0609rem);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.22rem;
+  color: #327b69;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem #f28482;
+  background-color: #f7ede2;
+  border-radius: 5.1rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-1jz2-9pv .search-button-fCv {
+  margin-top: 0.2365rem;
+  box-sizing: border-box;
+  padding: 1.612rem 1.578rem 1.674rem 1.612rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-1jz2-9pv .search-button-fCv .vector-a4z {
+  width: 2.2575rem;
+  height: 2.507rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W {
+  margin: 0rem 2.343rem 0rem 4.615rem;
+  width: calc(100% - 6.9578rem);
+  height: 21.1958rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW {
+  width: 22.0077rem;
+  height: 20.2727rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW .auto-group-rn1q-iaW {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 13.7727rem;
+  position: relative;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW .auto-group-rn1q-iaW .c-FqL {
+  width: 22rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0.0077rem;
+  top: 0;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.2rem;
+  color: #327b69;
+  font-family: Niagara Solid, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW .auto-group-rn1q-iaW .new-delhi-in-88S {
+  width: 12.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.9727rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3925;
+  letter-spacing: 0.22rem;
+  color: #f28482;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW .st-january-friday-q2r {
+  max-width: 9.7rem;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.3925;
+  letter-spacing: 0.0315rem;
+  color: #327b69;
+  font-family: Mohave, 'Source Sans Pro';
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .image-1-YCA {
+  width: 17.0926rem;
+  height: 19.2499rem;
+  position: absolute;
+  left: 19.554rem;
+  top: 1.9459rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .pm-3ei {
+  width: 45rem;
+  height: 11rem;
+  position: absolute;
+  left: 11.5884rem;
+  top: 37.1rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.0908007813;
+  letter-spacing: 1.8rem;
+  color: #327b69;
+  font-family: Niagara Solid, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk {
+  box-sizing: border-box;
+  padding: 7rem 38.9rem 7rem 0rem;
+  width: 154.3rem;
+  height: 92.6747rem;
+  position: absolute;
+  left: 22rem;
+  top: 69.5rem;
+  display: flex;
+  align-items: flex-start;
+  
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA {
+  margin: 2.8rem 17.963rem 0rem 0rem;
+  width: 45.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA .group-1-8Jn {
+  margin: 0rem 3rem 4.6rem 5.7rem;
+  width: calc(100% - 8.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA .group-1-8Jn .journeyuncharted-4iE {
+  margin-bottom: 1rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.756rem;
+  color: #000000;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA .group-1-8Jn .live-explore-repeat-PVc {
+  margin-right: 1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Niconne, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+h1 {
+    color: var(--primary-color);
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  .btn {
+    color: #fff;
+    background: var(--primary-color);
+    cursor: pointer;
+    border: 0;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 12px;
+  }
+  
+  .currency {
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .currency select {
+    padding: 10px 20px 10px 10px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    border: 1px solid #dedede;
+    font-size: 16px;
+    /*  You may not need these following lines. The arrow did not show for me on MacOS/Chrome so I added it. Just remove it if you would like  */
+    background: transparent;
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%20000002%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+    background-position: right 10px top 50%, 0, 0;
+    background-size: 12px auto, 100%;
+    background-repeat: no-repeat;
+  }
+  
+  .currency input {
+    border: 0;
+    background: transparent;
+    font-size: 30px;
+    text-align: right;
+  }
+  
+  .swap-rate-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .rate {
+    color: var(--primary-color);
+    font-size: 14px;
+    padding: 0 10px;
+  }
+  
+  select:focus,
+  input:focus,
+  button:focus {
+    outline: 0;
+  }
+  
+  @media (max-width: 600px) {
+    .currency input {
+      width: 200px;
+    }
+  }
+  
+
+footer{
+  line-height: 1px;
+  word-spacing: 0.4px;
+  margin-bottom: -811px;
+  position: absolute;
+  bottom: -380px;
+  left: 0;
+  right: 0;
+  background: #59ad98;
+  height: 200px;
+  width: 1544px;
+  font-family: Mohave, 'Source Sans Pro';
+  padding-top: 60px;
+  color: #fff;
+}
+.footer-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+}
+.footer-content h3{
+  margin-top: -40px;
+  font-size: 2.1rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 3rem;
+}
+.footer-content p{
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 28px;
+  font-size: 14px;
+  color: #cacdd2;
+}
+.socials{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 3rem 0;
+}
+.socials li{
+  margin: 0 10px;
+}
+.socials a{
+  text-decoration: none;
+  color: #fff;
+  border: 1.1px solid white;
+  padding: 5px;
+
+  border-radius: 50%;
+
+}
+.socials a i{
+  font-size: 1.1rem;
+  width: 20px;
+
+
+  transition: color .4s ease;
+
+}
+.socials a:hover i{
+  color: aqua;
+}
+
+.footer-bottom{
+  height: 200px;
+  background: #3f8070;
+  width: 1544px;
+  padding: 20px;
+  text-align: center;
+}
+.footer-bottom p{
+  float: left;
+  font-size: 14px;
+  word-spacing: 2px;
+  text-transform: capitalize;
+}
+.footer-bottom p a{
+color:#44bae8;
+font-size: 16px;
+text-decoration: none;
+}
+.footer-bottom span{
+  text-transform: uppercase;
+  opacity: .4;
+  font-weight: 200;
+}
+.footer-menu{
+float: right;
+
+}
+.footer-menu ul{
+display: flex;
+}
+.footer-menu ul li{
+padding-right: 10px;
+display: block;
+}
+.footer-menu ul li a{
+color: #cfd2d6;
+text-decoration: none;
+}
+.footer-menu ul li a:hover{
+color: #27bcda;
+}
+
+@media (max-width:500px) {
+.footer-menu ul{
+display: flex;
+margin-top: 10px;
+margin-bottom: 20px;
+}
+}

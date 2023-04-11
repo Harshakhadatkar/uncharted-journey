@@ -1,0 +1,780 @@
+
+html {
+	font-size:67.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1519px;
+}.macbook-pro-14-1-4Ui {
+
+  box-sizing: border-box;
+  width: 1544px;
+  height: 1800px;
+  overflow: hidden;
+  position: relative;
+  
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A {
+  width: 1519px;
+  height: 500px;
+  position: relative;
+  background-color: #ffffff;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .background-LUA {
+  margin-bottom: 263px;
+  width: 151.9rem;
+  height: 54rem;
+  position: inherit;
+  left: 0;
+  top: -184px;
+  background-size: 121.11% 132.007%;
+  background-position: -4.279rem -34.6632rem;
+  
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa {
+  position: absolute;
+  padding: 5px;
+  margin-top: 0px;
+  padding-left: 20px;
+  margin-bottom: 0px;
+  width: 100%;
+  z-index: 9;
+  height: 4.9rem;
+  display: flex;
+  align-items: center;
+  
+}
+
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa {
+  background-color: #00000077;
+  border-radius: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  height: 65px;
+  color: whitesmoke;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA {
+  margin-right: 31.2042rem;
+  /* height: 100%; */
+  display: flex;
+  /* align-items: flex-end; */
+  flex-shrink: 0;
+  align-content: center;
+ 
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k {
+  margin: 0rem 1.259rem 0.1rem 0rem;
+  width: 5.0367rem;
+  height: 4.8rem;
+  position: relative;
+  border: solid 0.1rem #689c8f;
+  box-sizing: border-box;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k .rectangle-13-LS6 {
+  width: 3.9874rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0.5247rem;
+  top: 0.5rem;
+  background-color: #f7ede2;
+  border-radius: 0.3rem;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k .ju-4N6 {
+  width: 1.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.0493rem;
+  top: 1rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.63rem;
+  color: #327b69;
+  font-family: Lucida Console, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv {
+  max-width: 9.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3930000067;
+  letter-spacing: 0.336rem;
+  color: #000000;
+  font-family: Mohave, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv .journey-uncharted-kEv-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.336rem;
+  color: #000000;
+  font-family: Mohave, 'Source Sans Pro';
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv .journey-uncharted-kEv-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3925;
+  letter-spacing: 0.336rem;
+  color: #eb6967;
+  font-family: Mohave, 'Source Sans Pro';
+}
+.navbar {
+  padding-top: 14px;
+  position: relative;
+  display: block;
+  /* overflow: hidden; */
+  /* background-color: #0c5460; */
+  font-family: Mohave, 'Source Sans Pro';
+  z-index: 10;
+  padding-right: 300px;
+}
+/* Links inside the navbar */
+.navbar a {
+  float: right;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: right;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 18px;
+  letter-spacing: 2px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  color: #F7D5A1;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: rgba(17, 17, 17, 0.67);
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 {
+  margin: 1.2rem 0rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .home-vKk {
+  
+  margin-right: 8.5163rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .home-vKk:hover {
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .destinations-Fcv {
+  margin-right: 11.8044rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .destinations-Fcv:hover {
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .activities-mrA {
+  margin-right: 10.5122rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .activities-mrA:hover{
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown {
+  float: left;
+  overflow: hidden;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown .activities-mrA{
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 a:hover, .dropdown:hover .activities-mrA {
+  background-color: rgb(197, 197, 197);
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown-content a:hover {
+  background-color: #ddd;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown:hover .dropdown:hover {
+  display: block;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .login-hjp {
+  margin-right: 8.6671rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .login-hjp:hover{
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .register-SBc {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .register-SBc:hover{
+  color: #000000;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+ }
+ 
+ h3,h4,h5 {
+    font-weight: 300 !important;
+ }
+ 
+ .calendar-wrapper {
+    height: auto;
+    max-width: 730px;
+    margin: 0 auto;
+ }
+ 
+ .calendar-header {
+    background-color: rgba(18, 15, 25, 0.25);
+    height: 100%;
+    padding: 20px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    position: relative;
+ }
+ 
+ .header-title {
+    padding-left: 15%;
+ }
+ 
+ .header-background {
+    background-image: url("https://raw.githubusercontent.com/JustMonk/codepen-resource-project/master/img/compressed-header.jpg");
+    height: 200px;
+    background-position: center right;
+    background-size: cover;
+ }
+ 
+ .calendar-content {
+    background-color: #fff;
+    padding: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+    overflow: hidden;
+ }
+ 
+ .event-mark {
+    width: 5px;
+    height: 5px;
+    background-color: teal;
+    border-radius: 100px;
+    position: absolute;
+    left: 46%;
+    top: 70%;
+ }
+ 
+ .calendar-footer {
+    height: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    background-color: #18181879 !important;
+    position: relative;
+    overflow: hidden;
+ }
+ 
+ .addForm {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    height: 100%;
+    background-color: #18181879 !important;
+    transition: top 0.5s cubic-bezier(1, 0, 0, 1);
+    padding: 0 5px 0 5px;
+ }
+ 
+ .addForm input {
+    color: #fff;
+ }
+ 
+ .addForm .row {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    margin-bottom: 0;
+ }
+ 
+ .addForm h4 {
+    color: #fff;
+    margin-bottom: 1rem;
+ }
+ 
+ .addEventButtons {
+    text-align: right;
+    padding: 0 0.75rem 0 0.75rem;
+ }
+ 
+ .addEventButtons a {
+    color: black;
+    font-weight: 300;
+ }
+ 
+ .emptyForm {
+    padding: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+ }
+ 
+ .emptyForm h4 {
+    color: #fff;
+    margin-bottom: 2rem;
+ }
+ 
+ .sidebar-wrapper {
+    color: #fff;
+    background-color: #18181879 !important;
+    padding-top: 0;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 66px;
+ }
+ 
+ .sidebar-title {
+    padding: 50px 6% 50px 12%;
+ }
+ 
+ .sidebar-title h4 {
+    margin-top: 0;
+ }
+ 
+ .sidebar-events {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-bottom: 70px;
+ }
+ 
+ .empty-message {
+    font-size: 1.2rem;
+    padding: 15px 6% 15px 12%;
+ }
+ 
+ .eventCard {
+    background-color: #fff;
+    color: black;
+    padding: 12px 24px 12px 24px;
+    border-bottom: 1px solid #E5E5E5;
+    white-space: nowrap;
+    position: relative;
+    animation: slideInDown 0.5s;
+ }
+ 
+ .eventCard-header {
+    font-weight: bold;
+ }
+ 
+ .eventCard-description {
+    color: grey;
+ }
+ 
+ .eventCard-mark-wrapper {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 60px;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 25%, rgba(255, 255, 255, 1) 100%);
+ }
+ 
+ .eventCard-mark {
+    width: 8px;
+    height: 8px;
+    background-color: #b39ddb;
+    border-radius: 100px;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+ }
+ 
+ .day-mark {
+    width: 7px;
+    height: 7px;
+    background-color: #b39ddb;
+    border-radius: 100px;
+    position: absolute;
+    left: 47%;
+    top: 67%;
+ }
+ 
+ .content-wrapper {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 300px;
+ }
+ 
+ #table-body .col:hover {
+    cursor: pointer;
+    /*border: 1px solid grey;*/
+    background-color: #E0E0E0;
+ }
+ 
+ .empty-day:hover {
+    cursor: default !important;
+    background-color: #fff !important;
+ }
+ 
+ #table-body .row .col {
+    padding: .75rem;
+ }
+ 
+ #table-body .col {
+    border: 1px solid transparent;
+ }
+ 
+ #table-body {}
+ 
+ #table-body .row {
+    margin-bottom: 0;
+ }
+ 
+ #table-body .col {
+    padding-top: 1.3rem !important;
+    padding-bottom: 1.3rem !important;
+ }
+ 
+ #calendar-table {
+    text-align: center;
+ }
+ 
+ .prev-button {
+    position: absolute;
+    cursor: pointer;
+    left: 0%;
+    top: 35%;
+    color: grey !important;
+ }
+ 
+ .prev-button i {
+    font-size: 4em;
+ }
+ 
+ .next-button {
+    position: absolute;
+    cursor: pointer;
+    right: 0%;
+    top: 35%;
+    color: grey !important;
+ }
+ 
+ .next-button i {
+    font-size: 4em;
+ }
+ 
+ .addEvent {
+    box-shadow: 0 5px 15px rgb(57, 168, 228);
+    background-color: #39a8e4;
+    padding: 10px;
+    padding-left: 3em;
+    padding-right: 3em;
+    cursor: pointer;
+    border-radius: 25px;
+    color: #fff !important;
+    background-image: linear-gradient(135deg, #8d8dd4, #45ced4);
+ }
+ 
+ .addEvent:hover {
+    transition: box-shadow 0.5s;
+    box-shadow: 0 4px 25px rgb(57, 168, 228);
+ }
+ 
+ .mobile-header {
+    padding: 0;
+    display: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    background-color: #5a649c !important;
+ }
+ 
+ .mobile-header a i {
+    color: #fff;
+    font-size: 38px;
+ }
+ 
+ .mobile-header h4 {
+    color: #fff;
+ }
+ 
+ .mobile-header .row {
+    margin-bottom: 0;
+ }
+ 
+ .mobile-header h4 {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+ }
+ 
+ @media (max-width:992px) {
+    .content-wrapper {
+       margin-left: 0;
+    }
+    .mobile-header {
+       display: block;
+    }
+    .calendar-wrapper {
+       margin-top: 80px;
+    }
+    .sidebar-wrapper {
+       background-color: #EEEEEE !important;
+    }
+    .sidebar-title {
+       background-color: #5A649C !important;
+    }
+    .empty-message {
+       color: black;
+    }
+ }
+ 
+ @media (max-width:767px) {
+    .content-wrapper .container {
+       width: auto;
+    }
+    .calendar-content {
+       padding-left: 5%;
+       padding-right: 5%;
+    }
+    body .row {
+       margin-bottom: 0;
+    }
+ }
+ 
+ @media (max-width:450px) {
+    .content-wrapper {
+       padding-left: 0;
+       padding-right: 0;
+    }
+    .content-wrapper .container {
+       padding-left: 0;
+       padding-right: 0;
+    }
+ }
+      
+
+footer{
+  line-height: 1px;
+  word-spacing: 0.4px;
+  margin-bottom: -811px;
+  position: absolute;
+  bottom: -380px;
+  left: 0;
+  right: 0;
+  background: #59ad98;
+  height: 200px;
+  width: 1544px;
+  font-family: Mohave, 'Source Sans Pro';
+  padding-top: 60px;
+  color: #fff;
+}
+.footer-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+}
+.footer-content h3{
+  margin-top: -40px;
+  font-size: 2.1rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 3rem;
+}
+.footer-content p{
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 28px;
+  font-size: 14px;
+  color: #cacdd2;
+}
+.socials{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 3rem 0;
+}
+.socials li{
+  margin: 0 10px;
+}
+.socials a{
+  text-decoration: none;
+  color: #fff;
+  border: 1.1px solid white;
+  padding: 5px;
+
+  border-radius: 50%;
+
+}
+.socials a i{
+  font-size: 1.1rem;
+  width: 20px;
+
+
+  transition: color .4s ease;
+
+}
+.socials a:hover i{
+  color: aqua;
+}
+
+.footer-bottom{
+  height: 200px;
+  background: #3f8070;
+  width: 1544px;
+  padding: 20px;
+  text-align: center;
+}
+.footer-bottom p{
+  float: left;
+  font-size: 14px;
+  word-spacing: 2px;
+  text-transform: capitalize;
+}
+.footer-bottom p a{
+color:#44bae8;
+font-size: 16px;
+text-decoration: none;
+}
+.footer-bottom span{
+  text-transform: uppercase;
+  opacity: .4;
+  font-weight: 200;
+}
+.footer-menu{
+float: right;
+
+}
+.footer-menu ul{
+display: flex;
+}
+.footer-menu ul li{
+padding-right: 10px;
+display: block;
+}
+.footer-menu ul li a{
+color: #cfd2d6;
+text-decoration: none;
+}
+.footer-menu ul li a:hover{
+color: #27bcda;
+}
+
+@media (max-width:500px) {
+.footer-menu ul{
+display: flex;
+margin-top: 10px;
+margin-bottom: 20px;
+}
+}

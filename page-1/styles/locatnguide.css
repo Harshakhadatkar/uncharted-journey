@@ -1,0 +1,1521 @@
+
+html {
+	font-size:67.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1519px;
+}.macbook-pro-14-1-4Ui {
+
+  box-sizing: border-box;
+  width: 1544px;
+  height: 1910px;
+  overflow: hidden;
+  position: relative;
+  
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A {
+  width: 1519px;
+  height: 500px;
+  position: relative;
+  background-color: #ffffff;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .background-LUA {
+  margin-bottom: 263px;
+  width: 151.9rem;
+  height: 54rem;
+  position: inherit;
+  left: 0;
+  top: -184px;
+  background-size: 121.11% 132.007%;
+  background-position: -4.279rem -34.6632rem;
+  
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa {
+  position: absolute;
+  padding: 5px;
+  margin-top: 0px;
+  padding-left: 20px;
+  margin-bottom: 0px;
+  width: 100%;
+  z-index: 9;
+  height: 4.9rem;
+  display: flex;
+  align-items: center;
+  
+}
+
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa {
+  background-color: #00000077;
+  border-radius: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  height: 65px;
+  color: whitesmoke;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA {
+  margin-right: 31.2042rem;
+  /* height: 100%; */
+  display: flex;
+  /* align-items: flex-end; */
+  flex-shrink: 0;
+  align-content: center;
+ 
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k {
+  margin: 0rem 1.259rem 0.1rem 0rem;
+  width: 5.0367rem;
+  height: 4.8rem;
+  position: relative;
+  border: solid 0.1rem #689c8f;
+  box-sizing: border-box;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k .rectangle-13-LS6 {
+  width: 3.9874rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0.5247rem;
+  top: 0.5rem;
+  background-color: #f7ede2;
+  border-radius: 0.3rem;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .auto-group-nxxl-F9k .ju-4N6 {
+  width: 1.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.0493rem;
+  top: 1rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.63rem;
+  color: #327b69;
+  font-family: Lucida Console, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv {
+  max-width: 9.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3930000067;
+  letter-spacing: 0.336rem;
+  color: #000000;
+  font-family: Mohave, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv .journey-uncharted-kEv-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.336rem;
+  color: #000000;
+  font-family: Mohave, 'Source Sans Pro';
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .logo-WCA .journey-uncharted-kEv .journey-uncharted-kEv-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3925;
+  letter-spacing: 0.336rem;
+  color: #eb6967;
+  font-family: Mohave, 'Source Sans Pro';
+}
+.navbar {
+  padding-top: 14px;
+  position: relative;
+  display: block;
+  /* overflow: hidden; */
+  /* background-color: #0c5460; */
+  font-family: Mohave, 'Source Sans Pro';
+  z-index: 10;
+  padding-right: 300px;
+}
+/* Links inside the navbar */
+.navbar a {
+  float: right;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: right;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 18px;
+  letter-spacing: 2px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  color: #F7D5A1;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: rgba(17, 17, 17, 0.67);
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 {
+  margin: 1.2rem 0rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .home-vKk {
+  
+  margin-right: 8.5163rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .home-vKk:hover {
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .destinations-Fcv {
+  margin-right: 11.8044rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .destinations-Fcv:hover {
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .activities-mrA {
+  margin-right: 10.5122rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .activities-mrA:hover{
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown {
+  float: left;
+  overflow: hidden;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown .activities-mrA{
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 a:hover, .dropdown:hover .activities-mrA {
+  background-color: rgb(197, 197, 197);
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown-content a:hover {
+  background-color: #ddd;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .dropdown:hover .dropdown:hover {
+  display: block;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .login-hjp {
+  margin-right: 8.6671rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .login-hjp:hover{
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .register-SBc {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.198rem;
+  color: azure;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .auto-group-r7fp-mEa .navigation-bar-oF8 .register-SBc:hover{
+  color: #000000;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc {
+  width: 56.5884rem;
+  height: 50.5rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 11.5rem;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .rectangle-2-XYe {
+  margin-top: 60px;
+  width: 37.1rem;
+  height: 39.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.686);
+  border-radius: 5.9rem;
+  border-color: #327b69;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE {
+  width: 43.6044rem;
+  height: 29.4457rem;
+  position: absolute;
+  left: 4.2922rem;
+  top: 4.5774rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-1jz2-9pv {
+  margin-bottom: 2.221rem;
+  width: 100%;
+  height: 6.029rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-1jz2-9pv .search-bar-ErN {
+  margin: 0rem 2.251rem 0.061rem 0rem;
+  box-sizing: border-box;
+  padding: 1.623rem 1.741rem 1.545rem 1.741rem;
+  width: 35.9058rem;
+  height: calc(100% - 0.0609rem);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.22rem;
+  color: #327b69;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem #f28482;
+  background-color: #f7ede2;
+  border-radius: 5.1rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-1jz2-9pv .search-button-fCv {
+  margin-top: 0.2365rem;
+  box-sizing: border-box;
+  padding: 1.612rem 1.578rem 1.674rem 1.612rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-1jz2-9pv .search-button-fCv .vector-a4z {
+  width: 2.2575rem;
+  height: 2.507rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W {
+  margin: 0rem 2.343rem 0rem 4.615rem;
+  width: calc(100% - 6.9578rem);
+  height: 21.1958rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW {
+  width: 22.0077rem;
+  height: 20.2727rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW .auto-group-rn1q-iaW {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 13.7727rem;
+  position: relative;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW .auto-group-rn1q-iaW .c-FqL {
+  width: 22rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0.0077rem;
+  top: 0;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.2rem;
+  color: #327b69;
+  font-family: Niagara Solid, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW .auto-group-rn1q-iaW .new-delhi-in-88S {
+  width: 12.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.9727rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3925;
+  letter-spacing: 0.22rem;
+  color: #f28482;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .loaction-ZxW .st-january-friday-q2r {
+  max-width: 9.7rem;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.3925;
+  letter-spacing: 0.0315rem;
+  color: #327b69;
+  font-family: Mohave, 'Source Sans Pro';
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .temprature-qpE .auto-group-3dpw-r2W .image-1-YCA {
+  width: 17.0926rem;
+  height: 19.2499rem;
+  position: absolute;
+  left: 19.554rem;
+  top: 1.9459rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .weather-section-zoc .pm-3ei {
+  width: 45rem;
+  height: 11rem;
+  position: absolute;
+  left: 11.5884rem;
+  top: 37.1rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.0908007813;
+  letter-spacing: 1.8rem;
+  color: #327b69;
+  font-family: Niagara Solid, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk {
+  box-sizing: border-box;
+  padding: 7rem 38.9rem 7rem 0rem;
+  width: 154.3rem;
+  height: 92.6747rem;
+  position: absolute;
+  left: 22rem;
+  top: 69.5rem;
+  display: flex;
+  align-items: flex-start;
+  
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA {
+  margin: 2.8rem 17.963rem 0rem 0rem;
+  width: 45.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA .group-1-8Jn {
+  margin: 0rem 3rem 4.6rem 5.7rem;
+  width: calc(100% - 8.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA .group-1-8Jn .journeyuncharted-4iE {
+  margin-bottom: 1rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3925;
+  letter-spacing: 0.756rem;
+  color: #000000;
+  font-family: Mohave, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA .group-1-8Jn .live-explore-repeat-PVc {
+  margin-right: 1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Niconne, 'Source Sans Pro';
+  white-space: nowrap;
+  
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .auto-group-yat4-1EA .welcome-to-our-website-your-ultimate-guide-to-exploring-the-world-from-breathtaking-natural-landscapes-to-fascinating-cultural-experiences-we-have-everything-you-need-to-plan-your-next-adventure-7Ai {
+  max-width: 45.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5;
+  letter-spacing: 0.19rem;
+  color: #327b69;
+  font-family: Mohave, 'Source Sans Pro';
+ 
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .blob-haikei-1-NF4 {
+  width: 52.2366rem;
+  height: 52.8rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .blob-haikei-1-NF4 .group-Ws4 {
+  width: 52.2288rem;
+  height: 50.4804rem;
+  position: absolute;
+  left: 0;
+  top: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .hero-section-JKk .blob-haikei-1-NF4 .imageedit23739459745-1-SVp {
+  width: 52.1rem;
+  height: 52.8rem;
+  position: absolute;
+  left: 0.1366rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .main-JLz {
+  width: 150.2rem;
+  height: 303.9rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 2.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .main-JLz .auto-group-l5m4-deA {
+  box-sizing: border-box;
+  padding: 0rem 17.2rem 115.358rem 8.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.cssbuttons-io-button {
+  margin-left: 260px;
+  margin-bottom: 0px;
+  background: #F7EDE2;
+  color: black;
+  font-family: inherit;
+  padding: 0.35em;
+  padding-left: 1.2em;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 0.9em;
+  border: none;
+  letter-spacing: 0.05em;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0 0 1.6em -0.2em #F5CAC3;
+  overflow: hidden;
+  position: relative;
+  height: 3em;
+  width: 350px;
+  padding-right: 3.3em;
+ }
+ 
+.cssbuttons-io-button .icon {
+  
+  background: white;
+  margin-left: 1em;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.2em;
+  width: 2.2em;
+  border-radius: 0.7em;
+  box-shadow: 0.1em 0.1em 0.6em 0.2em #F5CAC3;
+  right: 0.3em;
+  transition: all 0.3s;
+ }
+ 
+.cssbuttons-io-button:hover .icon {
+  width: calc(100% - 0.6em);
+ }
+ 
+.cssbuttons-io-button .icon svg {
+  width: 1.1em;
+  transition: transform 0.3s;
+  color: black;
+ }
+ 
+.cssbuttons-io-button:hover .icon svg {
+  transform: translateX(0.1em);
+ }
+ 
+.cssbuttons-io-button:active .icon {
+  transform: scale(0.95);
+ }
+
+ #clouds{
+	padding: 100px 0px;
+  width: 1550px;
+  height: 200px;
+	background: #c9dbe9;
+	background: -webkit-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+	background: -linear-gradient(top, #c9dbe9 0%, #fff 100%);
+	background: -moz-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+}
+
+/*Time to finalise the cloud shape*/
+.cloud {
+	width: 200px; height: 60px;
+	background: #fff;
+	border-radius: 200px;
+	-moz-border-radius: 200px;
+	-webkit-border-radius: 200px;
+	
+	position: relative; 
+}
+
+.cloud:before, .cloud:after {
+	content: '';
+	position: absolute; 
+	background: #fff;
+	width: 100px; height: 80px;
+	position: absolute; top: -15px; left: 10px;
+	
+	border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	
+	-webkit-transform: rotate(30deg);
+	transform: rotate(30deg);
+	-moz-transform: rotate(30deg);
+}
+
+.cloud:after {
+	width: 120px; height: 120px;
+	top: -55px; left: auto; right: 15px;
+}
+
+/*Time to animate*/
+.x1 {
+	-webkit-animation: moveclouds 15s linear infinite;
+	-moz-animation: moveclouds 15s linear infinite;
+	-o-animation: moveclouds 15s linear infinite;
+}
+
+/*variable speed, opacity, and position of clouds for realistic effect*/
+.x2 {
+	left: 200px;
+	
+	-webkit-transform: scale(0.6);
+	-moz-transform: scale(0.6);
+	transform: scale(0.6);
+	opacity: 0.6; /*opacity proportional to the size*/
+	
+	/*Speed will also be proportional to the size and opacity*/
+	/*More the speed. Less the time in 's' = seconds*/
+	-webkit-animation: moveclouds 25s linear infinite;
+	-moz-animation: moveclouds 25s linear infinite;
+	-o-animation: moveclouds 25s linear infinite;
+}
+
+.x3 {
+	left: -250px; top: -200px;
+	
+	-webkit-transform: scale(0.8);
+	-moz-transform: scale(0.8);
+	transform: scale(0.8);
+	opacity: 0.8; /*opacity proportional to the size*/
+	
+	-webkit-animation: moveclouds 20s linear infinite;
+	-moz-animation: moveclouds 20s linear infinite;
+	-o-animation: moveclouds 20s linear infinite;
+}
+
+.x4 {
+	left: 470px; top: -250px;
+	
+	-webkit-transform: scale(0.75);
+	-moz-transform: scale(0.75);
+	transform: scale(0.75);
+	opacity: 0.75; /*opacity proportional to the size*/
+	
+	-webkit-animation: moveclouds 18s linear infinite;
+	-moz-animation: moveclouds 18s linear infinite;
+	-o-animation: moveclouds 18s linear infinite;
+}
+
+.x5 {
+	left: -150px; top: -150px;
+	
+	-webkit-transform: scale(0.8);
+	-moz-transform: scale(0.8);
+	transform: scale(0.8);
+	opacity: 0.8; /*opacity proportional to the size*/
+	
+	-webkit-animation: moveclouds 20s linear infinite;
+	-moz-animation: moveclouds 20s linear infinite;
+	-o-animation: moveclouds 20s linear infinite;
+}
+
+@-webkit-keyframes moveclouds {
+	0% {margin-left: 1000px;}
+	100% {margin-left: -1000px;}
+}
+@-moz-keyframes moveclouds {
+	0% {margin-left: 1000px;}
+	100% {margin-left: -1000px;}
+}
+@-o-keyframes moveclouds {
+	0% {margin-left: 1000px;}
+	100% {margin-left: -1000px;}
+}
+ .macbook-pro-14-1-4Ui .desktop-1-J8A .card {
+  margin-top: 600px;
+  margin-left: 440px;
+  width: 550px;
+  height: 500px;
+  border-radius: 4px;
+  background: white;
+  display: flex;
+  gap: 4px;
+  padding: .4em;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .card p {
+  margin-top: -90rem;
+  height: 100%;
+  flex: 1;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: all .5s;
+  background: #F7EDE2;
+  border: 1px solid #ff5a91;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.macbook-pro-14-1-4Ui .desktop-1-J8A .card p:hover {
+  flex: 4;
+}
+
+.macbook-pro-14-1-4Ui .desktop-1-J8A .card p span {
+  font-family: Mohave, 'Source Sans Pro';
+  font-size: 20px;
+  min-width: 14em;
+  padding: .6em;
+  text-align: center;
+  transform: rotate(-90deg);
+  transition: all .5s;
+  text-transform: uppercase;
+  color: #000000;
+  letter-spacing: .1em;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .card p:hover span {
+  transform: rotate(0);
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .card .c1{
+  background-image: url("https://source.unsplash.com/random/?books-white");
+  background-repeat: no-repeat;
+  height: 100%;
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .card .c2{
+  background-image: url("https://source.unsplash.com/random/?beaches-water");
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .card .c3{
+  background-image: url("https://source.unsplash.com/720x720/?hotels-white");
+}
+.macbook-pro-14-1-4Ui .desktop-1-J8A .card .c4{
+  background-image: url("https://source.unsplash.com/720x720/?food-white");
+}
+
+.wrapper{
+  height: 460px;
+  width: 400px;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
+  position: relative;
+  z-index: 10;
+  right: -150px;
+  top: 165px;
+  
+}
+.wrapper header{
+  display: flex;
+  font-size: 21px;
+  font-weight: 500;
+  color: #F28482;
+  padding: 16px 15px;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+}
+header i{
+  font-size: 0em;
+  cursor: pointer;
+  margin-right: 8px;
+}
+.wrapper.active header i{
+  margin-left: 5px;
+  font-size: 30px;
+}
+.wrapper .input-part{
+  margin: 20px 25px 30px;
+}
+.wrapper.active .input-part{
+  display: none;
+}
+.input-part .info-txt{
+  display: none;
+  font-size: 17px;
+  text-align: center;
+  padding: 12px 10px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+.input-part .info-txt.error{
+  color: #721c24;
+  display: block;
+  background: #f8d7da;
+  border: 1px solid #f5c6cb;
+}
+.input-part .info-txt.pending{
+  color: #0c5460;
+  display: block;
+  background: #d1ecf1;
+  border: 1px solid #bee5eb;
+}
+.input-part :where(input, button){
+  width: 356px;
+  height: 55px;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  border-radius: 7px;
+}
+.input-part input{
+  text-align: center;
+  padding: 0 0px;
+  border: 1px solid #ccc;
+}
+.input-part input:is(:focus, :valid){
+  border: 2px solid #F28482;
+}
+.input-part input::placeholder{
+  color: #bfbfbf;
+}
+.input-part .separator{
+  height: 1px;
+  width: 100%;
+  margin: 25px 0;
+  background: #ccc;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.separator::before{
+  content: "or";
+  color: #b3b3b3;
+  font-size: 19px;
+  padding: 0 15px;
+  background: #fff;
+}
+.input-part button{
+  color: #fff;
+  cursor: pointer;
+  background: #F28482;
+  transition: 0.3s ease;
+}
+.input-part button:hover{
+  background: #F28482;
+}
+.wrapper .weather-part{
+  display: none;
+  margin: 30px 0 0;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.wrapper.active .weather-part{
+  display: flex;
+}
+.weather-part img{
+  max-width: 125px;
+}
+.weather-part .temp{
+  display: flex;
+  font-weight: 500;
+  font-size: 72px;
+}
+.weather-part .temp .numb{
+  font-weight: 600;
+}
+.weather-part .temp .deg{
+  font-size: 40px;
+  display: block;
+  margin: 10px 5px 0 0;
+}
+.weather-part .weather{
+  font-size: 21px;
+  text-align: center;
+  margin: -5px 20px 15px;
+}
+.weather-part .location{
+  display: flex;
+  font-size: 19px;
+  padding: 0 20px;
+  text-align: center;
+  margin-bottom: 30px;
+  align-items: flex-start;
+}
+.location i{
+  font-size: 22px;
+  margin: 4px 5px 0 0;
+}
+.weather-part .bottom-details{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  border-top: 1px solid #ccc;
+}
+.bottom-details .column{
+  display: flex;
+  width: 100%;
+  padding: 15px 0;
+  align-items: center;
+  justify-content: center;
+}
+.column i{
+  color: #F28482;
+  font-size: 40px;
+}
+.column.humidity{
+  border-left: 1px solid #ccc;
+}
+.column .details{
+  margin-left: 3px;
+}
+.details .temp, .humidity span{
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: -3px;
+}
+.details .temp .deg{
+  margin: 0;
+  font-size: 17px;
+  padding: 0 2px 0 1px;
+}
+.column .details p{
+  font-size: 14px;
+  margin-top: -6px;
+}
+.humidity i{
+  font-size: 37px;
+}
+.container{
+  font-family: Mohave, 'Source Sans Pro';
+  padding-bottom: 10px;
+  width: 1519px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  word-spacing: 1px;
+  letter-spacing: 0.3px;
+}
+.container .content{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container .content .left-side{
+  width: 25%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 45px;
+  position: relative;
+  padding-bottom: 25px;
+}
+.content .left-side::before{
+  content: '';
+  position: absolute;
+  height: 70%;
+  width: 2px;
+  right: -15px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: #afafb6;
+}
+.content .left-side .details{
+  margin: 14px;
+  text-align: center;
+}
+.content .left-side .details i{
+  font-size: 30px;
+  color: #84A59D;
+  margin-bottom: 10px;
+}
+.content .left-side .details .topic{
+  font-size: 18px;
+  font-weight: 500;
+}
+.content .left-side .details .text-one,
+.content .left-side .details .text-two{
+  font-size: 14px;
+  color: #afafb6;
+}
+
+
+.container .content .right-side{
+  width: 75%;
+  margin-left: 75px;
+}
+.content .right-side .topic-text{
+  font-size: 23px;
+  font-weight: 600;
+  color: #84A59D;
+  padding-bottom: 15px;
+}
+.right-side .input-box{
+  height: 50px;
+  width: 1000px;
+  margin: 12px 0;
+}
+.right-side .input-box input,
+.right-side .input-box textarea{
+  height: 100%;
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background: #F0F1F8;
+  border-radius: 6px;
+  padding: 0 15px;
+  resize: none;
+}
+.right-side .message-box{
+  min-height: 110px;
+}
+.right-side .input-box textarea{
+  padding-top: 6px;
+}
+.right-side .button{
+  display: inline-block;
+  margin-top: 12px;
+}
+.right-side .button input[type="button"]{
+  color: #fff;
+  font-size: 18px;
+  outline: none;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  background: #84A59D;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.button input[type="button"]:hover{
+  background: #F5CAC3;
+}
+
+@media (max-width: 950px) {
+  .container{
+    width: 90%;
+    padding: 30px 40px 40px 35px ;
+  }
+  .container .content .right-side{
+   width: 75%;
+   margin-left: 55px;
+}
+}
+@media (max-width: 820px) {
+  .container{
+    margin: 40px 0;
+    height: 100%;
+  }
+  .container .content{
+    flex-direction: column-reverse;
+  }
+ .container .content .left-side{
+   width: 100%;
+   flex-direction: row;
+   margin-top: 40px;
+   justify-content: center;
+   flex-wrap: wrap;
+ }
+ .container .content .left-side::before{
+   display: none;
+ }
+ .container .content .right-side{
+   width: 100%;
+   margin-left: 0;
+ }
+}
+#nav-toggle {
+    position: absolute;
+    left: 10px;
+    top: 640px;
+    z-index: 9999;
+  }
+  
+  #nav-toggle {
+    cursor: pointer;
+    padding: 10px 35px 16px 0px;
+  }
+  
+  #nav-toggle span,
+  #nav-toggle span:before,
+  #nav-toggle span:after {
+    cursor: pointer;
+    border-radius: 1px;
+    height: 5px;
+    width: 35px;
+    background: #212121;
+    position: absolute;
+    display: block;
+    content: '';
+  }
+  
+  #nav-toggle span:before {
+    top: -10px;
+  }
+  
+  #nav-toggle span:after {
+    bottom: -10px;
+  }
+  
+  #nav-toggle span,
+  #nav-toggle span:before,
+  #nav-toggle span:after {
+    transition: all 500ms ease-in-out;
+  }
+  
+  #nav-toggle.active span {
+    background-color: transparent;
+  }
+  
+  #nav-toggle.active span:before,
+  #nav-toggle.active span:after {
+    top: 0;
+    background: white;
+  }
+  
+  #nav-toggle.active span:before {
+    transform: rotate(45deg);
+  }
+  
+  #nav-toggle.active span:after {
+    transform: rotate(-45deg);
+  }
+  
+  #searchDD {
+    top: 732px;
+    width: 770px;
+    height: 100vh;
+    background-color: rgba(1, 1, 1, .8);
+    position: absolute;
+    z-index: 999;
+  }
+  
+  #links::-webkit-scrollbar {
+    width: 0 !important
+  }
+  
+  .input-group {
+    padding-top: 5px;
+  }
+  
+  .carousel-nav
+  {
+    float: left;
+    font-size: 20px!important;
+    width: 29px;
+    color: black;
+    height: 37px;
+    line-height: 40px !important;
+    background-color: lightgray;
+    padding-left:8px!important;
+  }
+  
+  
+  .types {
+    width: 20%;
+    height: inherit;
+    background-color: lightgray;
+    float: left;
+    color: black;
+    font-family: Oswald;
+    font-size: 20px;
+    text-align: -webkit-center;
+    line-height: 35px;
+    border: 1px solid #CCC;
+    box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+  
+  .activeType {
+    color: #2161a1;
+    box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.6);
+  }
+  
+  
+  .thePerfectTeal {
+    background-color: #214444;
+  }
+  
+  a.generalText:hover {
+    color: cyan;
+  }
+  
+  button.thePerfectTeal:hover {
+    color: white;
+    background-color: #416464;
+  }
+  
+  .divider {
+    width: 90%;
+    margin: 20px auto 30px auto;
+    background-color: white;
+    height: 1px;
+  }
+  
+  #links {
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+    width: 100%;
+    height: 72%;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  
+  #mapPanel {
+    background-color: #212121;
+    width: 100%;
+    height: 100%;
+    float: right;
+  }
+  
+  .hourList {
+    color: white;
+    margin: 0;
+    position: relative;
+    padding-left: 0px;
+    bottom: 10px;
+    left: 20%;
+    width: 100%;
+    float: left;
+    top: 10px;
+  }
+  
+  .noHours {
+    color: white;
+    margin: 0 auto;
+    position: relative;
+    padding-left: 0px;
+    bottom: 10px;
+    width: 150px;
+    top: 60px;
+  }
+  
+  .loadText {
+    margin: auto;
+    width: 180px;
+    position: relative;
+    top: 16%;
+    color: lightgray;
+  }
+  
+  .loadContainer {
+    width: 80%;
+    height: 75%;
+    margin: auto;
+    position: relative;
+    border-radius: 50px;
+    top: 10%;
+  }
+  
+  .loadClass {
+    width: 100%;
+    height: 75px;
+    background-color: rgba(21, 21, 21, .7);
+    z-index: 1001;
+    padding: 0;
+    border: none;
+  }
+  
+  .location {
+    color: white;
+    padding: 5px;
+    margin-bottom: 0;
+  }
+  
+  .expando {
+    width: 100%;
+    height: 145px;
+    display: none;
+    background-color: rgba(21, 21, 21, 0.7);
+    margin-top: 0;
+    overflow: hidden
+  }
+  
+  .generalText {
+    color: white;
+    margin: 0 0 0 5px;
+  }
+  
+  .name {
+    color: white;
+    padding: 0 10px 10px 5px;
+    margin-bottom: 0px;
+    font-size: 20px;
+  }
+  
+  .goto {
+    cursor: pointer;
+  }
+  
+  .mainContent {
+    float: left;
+    width: 50%;
+    height: 100%
+  }
+  
+  .rating {
+    width: 20%;
+    height: 100%;
+    float: right;
+  }
+  
+  #map {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .pictureDiv {
+    width: 30%;
+    height: 100%;
+    float: left;
+  }
+  
+  .topHalf {
+    width: 100%;
+    height: 150px;
+    display: block;
+    background-color: rgba(21, 21, 21, 0.7);
+    z-index: 1001;
+    overflow: hidden;
+  }
+  
+  .removable {
+    width: 100%;
+    height: 150px;
+    margin: 20px 10px 20px 0;
+    cursor: pointer;
+  }
+  
+  .ratingText {
+    color: white;
+    padding: 5px 10px 0 0;
+    font-size: 40px;
+    margin-top: 0;
+  }
+  
+  .hideContent {
+    display: none;
+  }
+
+footer{
+  line-height: 1px;
+  word-spacing: 0.4px;
+  margin-bottom: -1219px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #59ad98;
+  height: 200px;
+  width: 1544px;
+  font-family: Mohave, 'Source Sans Pro';
+  padding-top: 60px;
+  color: #fff;
+}
+.footer-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+}
+.footer-content h3{
+  margin-top: -40px;
+  font-size: 2.1rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 3rem;
+}
+.footer-content p{
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 28px;
+  font-size: 14px;
+  color: #cacdd2;
+}
+.socials{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 3rem 0;
+}
+.socials li{
+  margin: 0 10px;
+}
+.socials a{
+  text-decoration: none;
+  color: #fff;
+  border: 1.1px solid white;
+  padding: 5px;
+
+  border-radius: 50%;
+
+}
+.socials a i{
+  font-size: 1.1rem;
+  width: 20px;
+
+
+  transition: color .4s ease;
+
+}
+.socials a:hover i{
+  color: aqua;
+}
+
+.footer-bottom{
+  height: 200px;
+  background: #3f8070;
+  width: 1544px;
+  padding: 20px;
+  text-align: center;
+}
+.footer-bottom p{
+  float: left;
+  font-size: 14px;
+  word-spacing: 2px;
+  text-transform: capitalize;
+}
+.footer-bottom p a{
+color:#44bae8;
+font-size: 16px;
+text-decoration: none;
+}
+.footer-bottom span{
+  text-transform: uppercase;
+  opacity: .4;
+  font-weight: 200;
+}
+.footer-menu{
+float: right;
+
+}
+.footer-menu ul{
+display: flex;
+}
+.footer-menu ul li{
+padding-right: 10px;
+display: block;
+}
+.footer-menu ul li a{
+color: #cfd2d6;
+text-decoration: none;
+}
+.footer-menu ul li a:hover{
+color: #27bcda;
+}
+
+@media (max-width:500px) {
+.footer-menu ul{
+display: flex;
+margin-top: 10px;
+margin-bottom: 20px;
+}
+}

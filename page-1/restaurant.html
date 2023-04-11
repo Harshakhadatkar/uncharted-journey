@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Journey Uncharted</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mohave%3A400%2C500%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Niagara+Solid%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Niconne%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lucida+Console%3A400"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <script defer src="restaurant.js"></script>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB-863i9uUtHLEHk0wz4HgNMtEFjwOdolo&libraries=places"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw=="
+  crossorigin="anonymous">
+  <link rel="stylesheet" href="./styles/restaurant.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+  <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>
+
+ </style>  
+</head>
+<body>
+<div class="macbook-pro-14-1-4Ui">
+  <div class="auto-group-r7fp-mEa">
+    <div class="logo-WCA">
+      <div class="auto-group-nxxl-F9k">
+        <div class="rectangle-13-LS6">
+        </div>
+        <p class="ju-4N6">JU</p>
+      </div>
+      <p class="journey-uncharted-kEv">
+        <span class="journey-uncharted-kEv-sub-0" style="color: azure;"> 
+        Journey
+        <br/>
+        
+        </span>
+        <span class="journey-uncharted-kEv-sub-1">Uncharted</span>
+      </p>
+    </div>
+    </div>
+    <div class="navbar">
+  <a href="login2.php">LOGIN</a>
+  <div class="dropdown">
+    <button class="dropbtn">ACTIVITIES
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Tour Planner</a>
+      <a href="currency.html">Currency Converter</a>
+      <a href="locatnguide.html">Location Guide</a>
+      <a href="Expense.html">Expense Tracker</a>
+    </div>
+  </div>
+  <a href="destination.html">DESTINATIONS</a>
+  <a href="proj.php">HOME</a>
+</div>
+       
+<div class="jumbotron jumbotron-billboard text-center">
+	<div class="img"></div>
+	<div class="container pt">
+		<div class="text-center">
+		</div>
+		<div class="mt-5 text-color">
+			<h1>Find the best Restaurants</h1>
+		</div>
+		<div class="row mx-auto well col-lg-12 mt-5">
+			<div class="col-xs-4 pr-0">
+				<select id="select_id" class="form-control form-control-lg">
+					<option value="Select City" hidden>Select City</option>
+					<option value="4">Bengaluru</option>
+					<option value="3" >Mumbai</option>
+					<option value="1">Delhi</option>
+					<option value="6">Hyderabad</option>
+					<option value="5">Pune</option>
+				</select>
+			</div>
+			<div class="col-xs-6 pl-0 pr-0">
+				<input id="getText" type="text" class="form-control" placeholder="Search for Restaurant">
+				</div>
+				<button id = "getMessage" class = "btn btn-success col-xs-2">Search</button>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div>
+			<div class = "message col-md-12"></div>
+		</div>
+	</div>
+	<hr>
+
+<footer>
+      <div class="footer-content">
+          <h3>We the Community of Journey Uncharted</h3>
+          <p>Looking for inspiration for your next trip? Browse through our selection of top destinations and start planning your dream vacation today. Our team of travel experts is dedicated to providing you with the best information, tips, and resources to make your journey a success!</p>
+      </div>
+      <div class="footer-bottom">
+          <p>copyright &copy; <a href="#">JourneyUncharted</a>  </p>
+                  <div class="footer-menu">
+                    <ul class="f-menu">
+                      <li><a href="">Home</a></li>
+                      <li><a href="">About</a></li>
+                      <li><a href="">Contact</a></li>
+                      <li><a href="">Blog</a></li>
+                    </ul>
+                  </div>
+      </div>
+
+  </footer>
+</body>
+</html>
